@@ -7,7 +7,7 @@ Nosso projeto foca em mostrar um pouco de tudo sobre o Chile, tanto sua históri
 - Descrição do desenvolvimento do aplicativo .................................2
 - Lista de Widgets utilizados ................................................2
 - Motivo da escolha desses Widgets e sua Implementação .......................2
-  - - Scaffold: ...............................................................2
+- - Scaffold: ...............................................................2
 - - Implementação: ..........................................................2
 - - Appbar: .................................................................2
 - - Implementacao: ..........................................................2
